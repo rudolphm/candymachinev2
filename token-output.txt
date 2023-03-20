@@ -1,0 +1,7 @@
+Creating token 7ZqYRooKrqcijG2Gp5ZJQZtyK9NHiupzDCezch1AefpA under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+Address:  7ZqYRooKrqcijG2Gp5ZJQZtyK9NHiupzDCezch1AefpA
+Decimals:  9
+
+Signature: 2CQMoYSjKb3myV8kiyMUEj9CtL6GKRs9VATZKWpJXCbePJ5kvdeNo995m5FhdsZsDvLhjzDDZpw1qebjy6WXhcjQ
+

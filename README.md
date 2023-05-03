@@ -1,3 +1,6 @@
+link to updatetokenmetadata script
+https://github.com/rudolphm/updatetokenmetadata
+
 
 SPL Token commands
 ==================
